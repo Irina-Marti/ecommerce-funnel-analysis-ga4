@@ -53,7 +53,7 @@ The SQL script handles:
 
 ---
 
-## 💡 Key Insights (Example)
+## 💡 Key Insights
 * The most significant drop-off occurs between first and second stages: **Session Start** and **View Item**.
 * Although most traffic comes from Google, its conversion rate is lower than some other sources.
 * Mobile users show a higher conversion rate compared to Desctop users (1,38% and 1,31%).
