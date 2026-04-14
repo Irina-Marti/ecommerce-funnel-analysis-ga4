@@ -3,6 +3,10 @@
 ## 📌 Project Overview
 This project focuses on analyzing the user journey and conversion funnel for an e-commerce website using raw data from **Google Analytics 4 (GA4)**. The goal was to build an interactive dashboard that helps the marketing team identify drop-off points and optimize traffic sources.
 
+[![Dashboard Preview](dashboard_preview.png)](https://public.tableau.com/app/profile/iryna.martynenko/viz/ProjectEcommerceFunnel_17725848175730/EcommerceConversionFunnelDashboard)
+
+---
+
 **Key results:**
 * Built a 7-step conversion funnel from session start to purchase.
 * Enabled deep-dive analysis by traffic source, device category, and landing pages.
