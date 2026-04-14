@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project focuses on analyzing the user journey and conversion funnel for an e-commerce website using raw data from **Google Analytics 4 (GA4)**. The goal was to build an interactive dashboard that helps the marketing team identify drop-off points and optimize traffic sources.
 
-
+![Dashboard Preview](dashboard_preview.PNG)
 
 ---
 
